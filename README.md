@@ -1,40 +1,36 @@
 ## Hi there, I'm Jonas 👋
 💻 Software Engineer | 📊 Data Scientist  
 
-🔹 Passionate about Machine Learning, Computer Vision & Automation
+💡 Passionate about Machine Learning, Computer Vision & Automation
 
-🚀 Currently working at [iCon](https://www.icon.bz.it/) 
+👨‍💻 Currently working at [iCon](https://www.icon.bz.it/) 
 
-🎓 MSc Computational Data Science - Free University of Bozen-Bolzano 
+🎓 [MSc Computational Data Science - Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/master-computing-data-science/) 
 
-🎓 BSc Computer Science - University of Innsbruck
+🎓 [BSc Computer Science - University of Innsbruck](https://www.uibk.ac.at/de/studien/ba-informatik/)
  
-
----
 
 ## 🛠 Skills  
 ### **Programming & Development**  
-- 🐍 Python, R, C++, C#, Java
+- 🐍 Python, C/C++, C#, R, Java
 - 🏗️ Software Development & Automation  
 - ⚙️ Backend & API Development
-- ☁️ Git/Gitlab/Github
+- 🛠️ Git/Gitlab/Github
 
 ### **Data Science**  
-- 🤖 Deep Learning & Neural Networks (Keras, TensorFlow, Pytorch)
-- 🖼️ Computer Vision & Image Processing
-- 🔍 Predictive Analytics  
-- 🎯 Model Training & Optimization  
-- 📊 Data Visualization & Exploration (Matplotlib, Seaborn)  
+- 🤖 Deep Learning & Neural Networks (Keras, TensorFlow, Pytorch, Onnx)
+- 🖼️ Computer Vision & Image Processing (OpenCV, Numpy, Pil(low))
+- 🎯 Model Training & Optimization (TensorBoard, KerasTuner, W&B)  
+- 📊 Data Visualization & Exploration (Matplotlib, Seaborn, Ggplot)  
 
 ### **Other Technical Skills**  
 - 🔄 Algorithm Design & Optimization  
 - 📡 Database Management (SQL, SPARQL)  
-- 🔗 Knowledge Graphs & Semantic Web Technologies  
+- 🔗 Knowledge Graphs & Semantic Web Technologies
 
----
 
-## ⚽ Work-Life Balance & Hobbies  
+## ⚽ Work-Life Balance  
 Beyond coding, I believe in maintaining a **healthy work-life balance**.  
-- ⚽ Passionate **football player** for an amateur club  
-- 🏋️‍♂️ Enjoy fitness & outdoor activities  
+- ⚽ Passionate **football player**
+- 🏋️‍♂️ Enjoying fitness & outdoor activities  
 - 🚀 Always exploring **new technologies & AI trends** 
