@@ -1,7 +1,7 @@
 ## Hi there, I'm Jonas 👋
 💻 Software Engineer | 📊 Data Scientist  
 
-💡 Passionate about Machine Learning, Computer Vision & Automation
+💡 Passionate about Deep Learning, Computer Vision & Automation
 
 👨‍💻 Currently working at [iCon](https://www.icon.bz.it/) 
 
