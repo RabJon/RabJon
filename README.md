@@ -1,5 +1,5 @@
 ## Hi there, I'm Jonas 👋
-💻 Software Engineer | 📊 Data Scientist  
+💻 Deep Learning Engineer | 📊 Data Scientist  
 
 💡 Passionate about Deep Learning, Computer Vision & Automation
 
